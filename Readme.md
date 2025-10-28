@@ -1,3 +1,4 @@
+
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing+Script&weight=600&size=38&duration=3000&pause=1000&color=0074e4&height=100&width=1300&&lines=Hi,+I'm+Lalit+Holkar+from+india+and+Welcome+to+my+GitHub+Profile!..+🙏✌😍;Nice+to+meet+you...👍✌😍)
 
 ### \## About Me :)
@@ -38,3 +39,9 @@
  <a href="https://wa.me/+917303279142" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="90px" width="90px" /></a>
 <a href="https://linkedin.com/in/lalit-holkar-890248b4" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="90px" width="90px" /></a>
 <a href="https://fb.com/lalitholkar" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="90px" width="90px" /></a> </div>
+
+<br/>
+<div>
+<p><a href="https://github.com/lalitholkar"><img src="https://komarev.com/ghpvc/?username=lalitholkar&color=brightgreen&style=flat-square" alt="ProfileViews" /></a>
+<a><img src="https://img.shields.io/github/followers/lalitholkar?label=Followers&style=social" alt="GitHub Badge"></a></p>
+</div>
